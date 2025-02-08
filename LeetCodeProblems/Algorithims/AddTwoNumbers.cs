@@ -2,9 +2,9 @@
 //var r = Solution.AddTwoNumbers3(new ListNode(2, new ListNode(4, new ListNode(3, default))), new ListNode(5, new ListNode(6, new ListNode(4, default))));
 //Console.WriteLine(r.First());
 
-using Algorithims.Helpers;
+using LeetCodeProblems.Algorithims.Helpers;
 
-namespace Algorithims;
+namespace LeetCodeProblems.Algorithims;
 
 public static partial class Solution
 {

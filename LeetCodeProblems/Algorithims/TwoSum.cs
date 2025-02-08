@@ -5,7 +5,7 @@
 //Console.WriteLine(r.First());
 //Console.WriteLine(r.Last());
 
-namespace Algorithims;
+namespace LeetCodeProblems.Algorithims;
 
 public static partial class Solution
 {

@@ -3,7 +3,7 @@
 //var r = Solution.RemoveDuplicates([0, 0, 1, 1, 1, 2, 2, 3, 3, 4]);
 //Console.WriteLine(r);
 
-namespace Algorithims;
+namespace LeetCodeProblems.Algorithims;
 
 public static partial class Solution
 {

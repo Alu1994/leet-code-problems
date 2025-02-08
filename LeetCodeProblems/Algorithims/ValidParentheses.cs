@@ -1,6 +1,6 @@
 ﻿//var r = Solution.IsValidParentheses2("[([]{})]");
 
-namespace Algorithims;
+namespace LeetCodeProblems.Algorithims;
 
 public static partial class Solution
 {

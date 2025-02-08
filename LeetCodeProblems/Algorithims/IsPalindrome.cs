@@ -4,7 +4,7 @@
 
 //Console.WriteLine(r);
 
-namespace Algorithims;
+namespace LeetCodeProblems.Algorithims;
 
 public static partial class Solution
 {

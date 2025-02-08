@@ -1,4 +1,4 @@
-﻿namespace Algorithims.Helpers;
+﻿namespace LeetCodeProblems.Algorithims.Helpers;
 
 public class ListNode
 {
